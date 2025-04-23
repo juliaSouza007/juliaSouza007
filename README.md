@@ -2,11 +2,11 @@
 
 **`Desenvolvedora FullStack`**
 
-👋 Oi, meu nome é Júlia Souza! Atualmente, curso ensino técnico integrado em Desenvolvimento de Sistemas pelo Colégio Técnico (COLTEC) da Universidade Federal de Minas Gerais (UFMG). Meu interesse por tecnologia começou no 9º ano do ensino fundamental, quando participei de uma oficina com Arduino. Desde então, venho explorando novas áreas dentro da tecnologia e da engenharia.
+Oi, meu nome é Júlia Souza! Atualmente, curso ensino técnico integrado em Desenvolvimento de Sistemas pelo Colégio Técnico (COLTEC) da Universidade Federal de Minas Gerais (UFMG). Meu interesse por tecnologia começou no 9º ano do ensino fundamental, quando participei de uma oficina com Arduino. Desde então, venho explorando novas áreas dentro da tecnologia e da engenharia.
 
-📈 Buscando aprofundar meus conhecimentos, ingressei no curso técnico, onde me apaixonei por programação e aprendi o básico de eletrônica. Minhas linguagens favoritas são C++, SQL, HTML, CSS e PHP, e tenho grande interesse em expandir esse repertório. Para fortalecer meu aprendizado, atuei como bolsista de Iniciação Científica Júnior da FAPEMIG no Centro Multiusuário de Termografia Científica (CEMTEC) da UFMG. Nesse projeto, trabalhei no gerenciamento e manipulação de um banco de dados, além do desenvolvimento de um dashboard para visualização das informações.
+Buscando aprofundar meus conhecimentos, ingressei no curso técnico, onde me apaixonei por programação e aprendi o básico de eletrônica. Minhas linguagens favoritas são C++, SQL, HTML, CSS e PHP, e tenho grande interesse em expandir esse repertório. Para fortalecer meu aprendizado, atuei como bolsista de Iniciação Científica Júnior da FAPEMIG no Centro Multiusuário de Termografia Científica (CEMTEC) da UFMG. Nesse projeto, trabalhei no gerenciamento e manipulação de um banco de dados, além do desenvolvimento de um dashboard para visualização das informações.
 
-💡 Estou sempre aberta a novas oportunidades e conversas. Tenho grande entusiasmo pelo aprendizado contínuo e adoro desafios que me permitam evoluir!
+Estou sempre aberta a novas oportunidades e conversas. Tenho grande entusiasmo pelo aprendizado e adoro desafios que me permitam evoluir!
 
 ---
 
