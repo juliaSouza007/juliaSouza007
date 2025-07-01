@@ -2,9 +2,11 @@
 
 **`Desenvolvedora FullStack`**
 
-Oi, meu nome é Júlia Souza! Atualmente, curso ensino técnico integrado em Desenvolvimento de Sistemas pelo Colégio Técnico (COLTEC) da Universidade Federal de Minas Gerais (UFMG). Meu interesse por tecnologia começou no 9º ano do ensino fundamental, quando participei de uma oficina com Arduino. Desde então, venho explorando novas áreas dentro da tecnologia e da engenharia.
+Oi, meu nome é Júlia Souza! Atualmente, curso ensino técnico integrado em Desenvolvimento de Sistemas pelo Colégio Técnico (COLTEC) da Universidade Federal de Minas Gerais (UFMG). Meu interesse por tecnologia começou no 9º ano do ensino fundamental, quando participei de uma oficina com Arduino. Desde então, venho explorando novas áreas dentro da tecnologia e da engenharia. Buscando aprofundar meus conhecimentos, ingressei no curso técnico, onde me apaixonei por programação e aprendi o básico de eletrônica. Minhas linguagens favoritas são C++, SQL, HTML, CSS e PHP, e tenho grande interesse em expandir esse repertório. 
 
-Buscando aprofundar meus conhecimentos, ingressei no curso técnico, onde me apaixonei por programação e aprendi o básico de eletrônica. Minhas linguagens favoritas são C++, SQL, HTML, CSS e PHP, e tenho grande interesse em expandir esse repertório. Para fortalecer meu aprendizado, atuei como bolsista de Iniciação Científica Júnior da FAPEMIG no Centro Multiusuário de Termografia Científica (CEMTEC) da UFMG. Nesse projeto, trabalhei no gerenciamento e manipulação de um banco de dados, além do desenvolvimento de um dashboard para visualização das informações.
+Fui bolsista de Iniciação Científica Júnior, como Pesquisadora Júnior, da FAPEMIG no Centro Multiusuário de Termografia Científica (CEMTEC) da UFMG, atuando no gerenciamento de dados da Estação Solarimétrica da Usina Tesla. Desenvolvi um dashboard web utilizando PostgreSQL e Grafana para organizar e visualizar dados de sensores de radiação solar, como piranômetros e espectrorradiômetros, facilitando a análise por pesquisadores da área. Posteriormente, migrei a visualização dos dados para o Looker Studio, com o objetivo de ampliar a integração com outras ferramentas e tornar os dados mais acessíveis para diferentes públicos, dentro e fora da universidade. Essa mudança também melhorou a usabilidade e o compartilhamento das informações, ampliando o impacto do projeto.
+
+Atualmente, participo do desenvolvimento de um aplicativo web voltado para um projeto de ensino do COLTEC, chamado Coltrekking. Trata-se de uma iniciativa educacional coordenada pelo professor Humberto Honda, que promove trekkings com o objetivo de estimular uma compreensão mais realista da realidade. O projeto conta com o apoio de uma comissão de alunos, responsável pela organização das atividades, seleção dos participantes e acompanhamento dos grupos durante os trekkings. Para facilitar a organização e gestão dessas atividades, estou desenvolvendo o aplicativo utilizando o Firebase Console, plataforma da Google. O objetivo é tornar mais eficiente o gerenciamento dos eventos, incluindo a definição de datas e trilhas, o controle de participantes e o registro das atividades realizadas.
 
 Estou sempre aberta a novas oportunidades e conversas. Tenho grande entusiasmo pelo aprendizado e adoro desafios que me permitam evoluir!
 
@@ -30,11 +32,11 @@ Estou sempre aberta a novas oportunidades e conversas. Tenho grande entusiasmo p
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Javascript" 
+    title="Javascript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
@@ -62,11 +64,27 @@ Estou sempre aberta a novas oportunidades e conversas. Tenho grande entusiasmo p
 />
 <img 
     align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
     alt="MySQL"
     title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -99,6 +117,14 @@ Estou sempre aberta a novas oportunidades e conversas. Tenho grande entusiasmo p
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Grafana" 
+    title="Grafana"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original.svg" 
 />
 
 <br/>
