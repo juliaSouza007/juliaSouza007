@@ -126,13 +126,3 @@ Estou sempre aberta a novas oportunidades e conversas. Tenho grande entusiasmo p
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original.svg" 
 />
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaSouza007&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
