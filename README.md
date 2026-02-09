@@ -127,12 +127,6 @@ Estou sempre aberta a novas oportunidades e conversas. Tenho grande entusiasmo p
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original.svg" 
 />
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
 
 <img 
       align="left" 
