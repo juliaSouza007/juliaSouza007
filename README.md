@@ -8,7 +8,7 @@ Fui bolsista de Iniciação Científica Júnior, como Pesquisadora Júnior, da F
 
 Também desenvolvi um aplicativo web voltado para um projeto de ensino do COLTEC, chamado Coltrekking. Trata-se de uma iniciativa educacional coordenada pelo professor Humberto Honda, que promove trekkings com o objetivo de estimular uma compreensão mais realista da realidade. O projeto conta com o apoio de uma comissão de alunos, responsável pela organização das atividades, seleção dos participantes e acompanhamento dos grupos durante os trekkings. Para facilitar a organização e gestão dessas atividades, desenvolvi o aplicativo utilizando o Firebase Console, plataforma da Google. O objetivo é tornar mais eficiente o gerenciamento dos eventos, incluindo a definição de datas e trilhas, o controle de participantes e o registro das atividades realizadas.
 
-Estou sempre aberta a novas oportunidades e conversas. Tenho grande entusiasmo pelo aprendizado e adoro desafios que me permitam evoluir!
+Durante meus anos no COLTEC me encontrei no desenvolvimento de jogos e participei de alguns workshops voltados para isso. Estou sempre aberta a novas oportunidades e conversas. Tenho grande entusiasmo pelo aprendizado e adoro desafios que me permitam evoluir!
 
 ---
 
