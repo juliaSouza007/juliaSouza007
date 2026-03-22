@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Oi, meu nome é Júlia Souza! Atualmente, curso ensino técnico integrado em Desenvolvimento de Sistemas pelo Colégio Técnico (COLTEC) da Universidade Federal de Minas Gerais (UFMG). Meu interesse por tecnologia começou no 9º ano do ensino fundamental, quando participei de uma oficina com Arduino. Desde então, venho explorando novas áreas dentro da tecnologia e da engenharia. Buscando aprofundar meus conhecimentos, ingressei no curso técnico, onde me apaixonei por programação e aprendi o básico de eletrônica. Minhas linguagens favoritas são C++, SQL, HTML, CSS e PHP, e tenho grande interesse em expandir esse repertório. 
+Oi, meu nome é Júlia Souza! Atualmente, estou fazendo graduação em Engenharia de Produção na EESC - USP. Já cursei ensino técnico integrado em Desenvolvimento de Sistemas pelo Colégio Técnico (COLTEC) da Universidade Federal de Minas Gerais (UFMG). Meu interesse por tecnologia começou no 9º ano do ensino fundamental, quando participei de uma oficina com Arduino. Desde então, venho explorando novas áreas dentro da tecnologia e da engenharia. Buscando aprofundar meus conhecimentos, ingressei no curso técnico, onde me apaixonei por programação e aprendi o básico de eletrônica.
 
 Fui bolsista de Iniciação Científica Júnior, como Pesquisadora Júnior, da FAPEMIG no Centro Multiusuário de Termografia Científica (CEMTEC) da UFMG, atuando no gerenciamento de dados da Estação Solarimétrica da Usina Tesla. Desenvolvi um dashboard web utilizando PostgreSQL e Grafana para organizar e visualizar dados de sensores de radiação solar, como piranômetros e espectrorradiômetros, facilitando a análise por pesquisadores da área. Posteriormente, migrei a visualização dos dados para o Looker Studio, com o objetivo de ampliar a integração com outras ferramentas e tornar os dados mais acessíveis para diferentes públicos, dentro e fora da universidade. Essa mudança também melhorou a usabilidade e o compartilhamento das informações, ampliando o impacto do projeto.
 
@@ -125,4 +125,12 @@ Estou sempre aberta a novas oportunidades e conversas. Tenho grande entusiasmo p
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" 
 />
